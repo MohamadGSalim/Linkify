@@ -1,5 +1,5 @@
 
-# Linkify-390
+# Linkify
 ![logo-transparent](https://github.com/MohamadGSalim/Linkify/assets/65099738/a55c6600-1b97-494c-810d-a19a285188d7)
 
 ## Course Description
